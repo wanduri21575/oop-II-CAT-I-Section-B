@@ -1,3 +1,7 @@
+//CT100/G/21575/24
+//WANDURI MOSES
+//CAT 1 SECTION B
+
 import java.util.Scanner;
 
 class Vehicle {
@@ -58,4 +62,5 @@ public class Showroom {
 
         scanner.close();
     }
+
 }
