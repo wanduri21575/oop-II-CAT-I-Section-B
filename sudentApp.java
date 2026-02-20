@@ -1,3 +1,7 @@
+//CT100/G/21575/24
+//WANDURI MOSES
+//CAT 1 Section B
+
 import java.util.Scanner;
 
 class StudentRecord {
@@ -37,4 +41,5 @@ class StudentApp {
         
         scanner.close();
     }
+
 }
